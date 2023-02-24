@@ -1,0 +1,264 @@
+
+              $$$$%ø`'%,    $$$$         ,%ø`'%,       ,%ø`'%,
+              $$$$`   '$$,  $$$$ s$$s  .$$`   '$$,   .$$`   '$$,    .sY$Ss,
+        ,ss,  $$$$     $$$, $$$$ $$$$          $$$           $$$    $$°$$$$
+        `ıı'  $$$$:%ø`'$$$$ $$$$ $$$$ $$$$:%ø`'ø`"  $$$$:%ø`'ø`"    `ıS$Sı'
+  ,a,         $$$$'    $$$$ $$$$ $$$$ $$$$' ù  ø    $$$$'ù . øù
+  `ı'         $$$$     $$$' $$$$ $$$$ `$$$  øù s$$ ù`$$$  ø. s$$     ,a,
+              $$$$$;,;ûüø ø $$$$ $$$$ ø.øüû;,;ûü      øüû;,;ûüø      `ı'
+                 t h e  a g g r e s s i v e  d o m i n a n c e
+     .sY$Ss,          ,%ø`'%,    $$$$%ø`'%,    $$$$%ø`'%,       ,a,
+     $$°$$$$        ,$$`   '$$,  $$$$`   '$$,  $$$$`   '$$,     `ı'
+     `ıS$Sı'       ,$$$     $$$  $$$$     $$$  $$$$     $$$,           ,ss,
+              ,a,  $$$$:%ø`'$$$$ $$$$:%ø`'$$.  $$$$     $$$$           `ıı'
+              `ı'  $$$$'    $$$$ $$$$'    $$$$ $$$$     $$$$  .sY$Ss,
+   ,ss,            $$$$     $$$$ $$$$     $$$$ $$$$     $$$   $$°$$$$
+   `ıı'            $$$$     $$$$ $$$$     $$$$ $$$$$;,;$üø    `ıS$Sı'
+
+                                         .sY$Ss,
+                    d$b .,sS$$$$Ss,      $$°$$$$
+   .sY$Ss,   ,sS$Ss,`ı',$$$$$$$$$$$$,    `ıS$Sı'
+   $$°$$$$ ,sS$$$$$$s,s$$$$$$$$$$$$$$$s,,.     .,sSS$$$SSs,      ,ss,
+   `ıS$Sı',$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$s,.  `ıı'
+ ,sSs,.,s$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$SSs,.,sb$$$Ss,
+$$$$$$$$$$$$     `ıı'                     `ıı'                     $$$$$$$$$$,
+'$°$$$$$$$$S  [ ReBirth 2.x Generic MOD Decryptor (Source Only) ]  $S$$$$$$$$'
+  'ü$$$$$$$$                                                       $$$$$$$`
+,ss,`$$$$$$$  release date: 10.20.00    supplier: [ n/a         ]  $$$$$ü'
+'ıı`,$$$$$$$         disks: 01          cracker.: [             ]  $$$$`,ss,
+  ,s$$$$$$$$Ss,       type: sourcecode  packer..: [             ] ,$$$$,`ıı'
+,$$$$$$$$$$$$$$,                ,sSs,                  ,sSs,   .,s$$$$$$$s,
+$$$$$$$$$$$$$$$$Sı"~"ı@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,
+'$$$$$$$$$$$$$$'  ,a,  `"üSS$$$$$SSü"`'~"ı@$$$$$$$$$$$$$$$$$$$û$$$$$$$$$$$$$
+ `ı@$$$$$$$$@ı`   `ı'      `"üüü"` .sY$Ss, `$$$$$$$$$$$$$$$$$'d$b`$$$$$$°$$$'
+    `"ıüı"`            ,a,         $$°$$$$  `$$$$$$$$$$$$$$$' `ı'  "ıS$$Sı"
+                       `ı'         `ıS$Sı'   `ıS$$$$$$$$$Sı'
+                                                `"øüüüø"'
+                                         .sY$Ss,
+                    d$b .,sS$$$$Ss,      $$°$$$$   [release & install info]
+   .sY$Ss,   ,sS$Ss,`ı',$$$$$$$$$$$$,    `ıS$Sı'
+   $$°$$$$ ,sS$$$$$$s,s$$$$$$$$$$$$$$$s,,.     .,sSS$$$SSs,      ,ss,
+   `ıS$Sı',$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$s,.  `ıı'
+ ,sSs,.,s$$$SüS$$$$$$$$$$S$$$$$$$$$$$$$$$$$$SüüS$$$$$$$$S$$$$S$Ss,.,sb$$$S.
+ `ıS$Sı'`ı'     `ıS$Sı     `ıS$$$$$$$$$$Sı'      `ıS$Sı'       `ıS$Sı'
+                                `ıüüüı'
+
+    [ Release info ]
+
+    This is the full assembler source code for the generic module
+    decryptor, for you open source types ;)
+
+                 ,ss,                                       d$b
+   ,sS$$$$Ss,    `ıı'                    ,sS$Ss,            `ı'
+ ,$$$$$$$$$$$$,       .,sS$$$$Ss,      ,sS$$$$$$s.       ,ss,       .sY$Ss,
+ $$$$$$$$$$$$$$$Sı"~"ı@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,
+ $$$$$$$$$$$$$$'  ,a,  `"üSS$$$$$SSü"`'~"ı@$$$$$$$$$$$$$$$$$$$û$$$$$$$$$$$$$
+ `ı@$$$$$$$$@ı`   `ı'      `"üüü"` .sY$Ss, `$$$$$$$$$$$$$$$$$'d$b`$$$$$$°$$$'
+    `"ıüı"`            ,a,         $$°$$$$  `$$$$$$$$$$$$$$$' `ı'  "ıS$$Sı"
+                       `ı'         `ıS$Sı'   `ıS$$$$$$$$$Sı'
+                                               `"øüüüø"'
+                                         .sY$Ss,
+                    d$b .,sS$$$$Ss,      $$°$$$$   [our glory affil sites]
+   .sY$Ss,   ,sS$Ss,`ı',$$$$$$$$$$$$,    `ıS$Sı'
+   $$°$$$$ ,sS$$$$$$s,s$$$$$$$$$$$$$$$s,,.     .,sSS$$$SSs,      ,ss,
+   `ıS$Sı',$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$s,.  `ıı'
+ ,sSs,.,s$$$SüS$$$$$$$$$$S$$$$$$$$$$$$$$$$$$SüüS$$$$$$$$S$$$$S$Ss,.,sb$$$S.
+ `ıS$Sı'`ı'     `ıS$Sı     `ıS$$$$$$$$$$Sı'      `ıS$Sı'       `ıS$Sı'
+                                `ıüüüı'
+
+    Dxx .............. XXX XXX XXX XXX ............................ WHQ
+    Cxx .............. XXX XXX XXX XXX ............................ EHQ
+    Txx .............. XXX XXX XXX XXX ............................ RHQ
+    Dxx .............. XXX XXX XXX XXX ............................ PLHQ
+    UXX .............. XXX XXX XXX XXX ............................ NLHQ
+    Hxx .............. XXX XXX XXX XXX ............................ HQ
+
+   RIGHT NOW WE ARE ACCEPTING AN GERMAN/CENTRAL/COURIER/MEMBER/ARCHIVE HQ
+   SO CONTACT US IF YOU THINK YOU SITE COULD HOLD ONE OF THESE POSITIONS
+   BUT NOT ONLY 0DAY SITES!
+
+                 ,ss,                                       d$b
+   ,sS$$$$Ss,    `ıı'                    ,sS$Ss,            `ı'
+ ,$$$$$$$$$$$$,       .,sS$$$$Ss,      ,sS$$$$$$s.       ,ss,       .sY$Ss,
+ $$$$$$$$$$$$$$$Sı"~"ı@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,
+ $$$$$$$$$$$$$$'  ,a,  `"üSS$$$$$SSü"`'~"ı@$$$$$$$$$$$$$$$$$$$û$$$$$$$$$$$$$
+ `ı@$$$$$$$$@ı`   `ı'      `"üüü"` .sY$Ss, `$$$$$$$$$$$$$$$$$'d$b`$$$$$$°$$$'
+    `"ıüı"`            ,a,         $$°$$$$  `$$$$$$$$$$$$$$$' `ı'  "ıS$$Sı"
+                       `ı'         `ıS$Sı'   `ıS$$$$$$$$$Sı'
+                                                `"øüüüø"'
+                                         .sY$Ss,
+                    d$b .,sS$$$$Ss,      $$°$$$$   [groupnews and notes]
+   .sY$Ss,   ,sS$Ss,`ı',$$$$$$$$$$$$,    `ıS$Sı'
+   $$°$$$$ ,sS$$$$$$s,s$$$$$$$$$$$$$$$s,,.     .,sSS$$$SSs,      ,ss,
+   `ıS$Sı',$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$s,.  `ıı'
+ ,sSs,.,s$$$SüS$$$$$$$$$$S$$$$$$$$$$$$$$$$$$SüüS$$$$$$$$S$$$$S$Ss,.,sb$$$S.
+ `ıS$Sı'`ı'     `ıS$Sı     `ıS$$$$$$$$$$Sı'      `ıS$Sı'       `ıS$Sı'
+                                `ıüüüı'
+
+   Blizzard was founded in Feb 98 and since this month we  have  released
+   more than 2700+ quality releases  for the scene. But this was just our
+   successful beginning.. We have already set higher targets for the next
+   year...  So take care pals....
+
+   READ THIS!
+
+   Web news: we finally have it done!! Our official Homepage is up and
+             running.. please use our official forum for crackrequests
+             and anything else belonging to this point. CU There!!
+
+        we celebrated our 2nd birthday - two years releasing nonstop
+
+                                                       [BLIZZARD TEAM 2k]
+
+                 ,ss,                                       d$b
+   ,sS$$$$Ss,    `ıı'                    ,sS$Ss,            `ı'
+ ,$$$$$$$$$$$$,       .,sS$$$$Ss,      ,sS$$$$$$s.       ,ss,       .sY$Ss,
+ $$$$$$$$$$$$$$$Sı"~"ı@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,
+ $$$$$$$$$$$$$$'  ,a,  `"üSS$$$$$SSü"`'~"ı@$$$$$$$$$$$$$$$$$$$û$$$$$$$$$$$$$
+ `ı@$$$$$$$$@ı`   `ı'      `"üüü"` .sY$Ss, `$$$$$$$$$$$$$$$$$'d$b`$$$$$$°$$$'
+    `"ıüı"`            ,a,         $$°$$$$  `$$$$$$$$$$$$$$$' `ı'  "ıS$$Sı"
+                       `ı'         `ıS$Sı'   `ıS$$$$$$$$$Sı'
+                                                `"øüüüø"'
+                                         .sY$Ss,
+                    d$b .,sS$$$$Ss,      $$°$$$$   [suckers]
+   .sY$Ss,   ,sS$Ss,`ı',$$$$$$$$$$$$,    `ıS$Sı'
+   $$°$$$$ ,sS$$$$$$s,s$$$$$$$$$$$$$$$s,,.     .,sSS$$$SSs,      ,ss,
+   `ıS$Sı',$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$s,.  `ıı'
+ ,sSs,.,s$$$SüS$$$$$$$$$$S$$$$$$$$$$$$$$$$$$SüüS$$$$$$$$S$$$$S$Ss,.,sb$$$S.
+ `ıS$Sı'`ı'     `ıS$Sı     `ıS$$$$$$$$$$Sı'      `ıS$Sı'       `ıS$Sı'
+                                `ıüüüı'
+
+   We in blizzard believe in tradition and fair competition between the
+   cracking groups around... suddenly some guys fake by using our stuff
+   to get a release without giving credits to us. Thats lame so our final
+   act against them, is to list their names in our info.
+
+   Please notice: we dont blame any whole group for this but the person
+                  who faked.
+
+   Following guys used blizzard registercodes/cracks:
+
+   1. kaNaDuH (former member of LSD)
+      he used a blizzard keygen by accz for Air Messenger SNPP v1.3 rel.
+
+   2. SkooBAM (dunno if group or person)
+      he used a registercode done by davy for BS1.Small.Business.v1.6d
+
+   3. an unknown DSi-member
+      he used a blizzard serial by accz for InBless.PandaShop.v.2.5-DSi
+
+   4. MAdCOW/NitRO-Adt
+      he used Keygens done by HaRdLoCk for da following
+      releases:      Leaf.Breaks.1.0-NitRO-Adt
+                     Leaf.Drums.1.0-NitRO-Adt
+                     Leaf.FX.1.0.R3-NitRO-Adt
+
+   5. Liquid/Rebels (apology accepted :)
+      he used key done by accz for File Protector release
+
+   6. DQF (whole group)
+      they used our keygen by accz for AudioSphere.v1.5.Win9x.NT-DQF
+
+   7. n3gative/Transmission (TSM)
+      he used the .reg file from our Alchemy.Eye.v1.3 release, done
+      by sn00pee, for his Alchemy Eye release
+
+      and again.. we can only say to all fakers be careful using blizzard
+      stuff for cheating... every member does his best to hide blizzard
+      initials or special numbers in our serials and keygens..
+
+      so better let it be, before the aggressive dominance blames YOU!
+
+      if you want further infos about email to: blizzardfox@yahoo.com
+
+                 ,ss,                                       d$b
+   ,sS$$$$Ss,    `ıı'                    ,sS$Ss,            `ı'
+ ,$$$$$$$$$$$$,       .,sS$$$$Ss,      ,sS$$$$$$s.       ,ss,       .sY$Ss,
+ $$$$$$$$$$$$$$$Sı"~"ı@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,
+ $$$$$$$$$$$$$$'  ,a,  `"üSS$$$$$SSü"`'~"ı@$$$$$$$$$$$$$$$$$$$û$$$$$$$$$$$$$
+ `ı@$$$$$$$$@ı`   `ı'      `"üüü"` .sY$Ss, `$$$$$$$$$$$$$$$$$'d$b`$$$$$$°$$$'
+    `"ıüı"`            ,a,         $$°$$$$  `$$$$$$$$$$$$$$$' `ı'  "ıS$$Sı"
+                       `ı'         `ıS$Sı'   `ıS$$$$$$$$$Sı'
+                                                `"øüüüø"'
+                                         .sY$Ss,
+                    d$b .,sS$$$$Ss,      $$°$$$$   [greetinx]
+   .sY$Ss,   ,sS$Ss,`ı',$$$$$$$$$$$$,    `ıS$Sı'
+   $$°$$$$ ,sS$$$$$$s,s$$$$$$$$$$$$$$$s,,.     .,sSS$$$SSs,      ,ss,
+   `ıS$Sı',$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$s,.  `ıı'
+ ,sSs,.,s$$$SüS$$$$$$$$$$S$$$$$$$$$$$$$$$$$$SüüS$$$$$$$$S$$$$S$Ss,.,sb$$$S.
+ `ıS$Sı'`ı'     `ıS$Sı     `ıS$$$$$$$$$$Sı'      `ıS$Sı'       `ıS$Sı'
+                                `ıüüüı'
+
+      tno-amn-oddity-orion-amok-ube-tfa-heritage-eclipse-tmg-cmg-cnc-odt
+      and all the rest we forgotten
+
+                 ,ss,                                       d$b
+   ,sS$$$$Ss,    `ıı'                    ,sS$Ss,            `ı'
+ ,$$$$$$$$$$$$,       .,sS$$$$Ss,      ,sS$$$$$$s.       ,ss,       .sY$Ss,
+ $$$$$$$$$$$$$$$Sı"~"ı@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,
+ $$$$$$$$$$$$$$'  ,a,  `"üSS$$$$$SSü"`'~"ı@$$$$$$$$$$$$$$$$$$$û$$$$$$$$$$$$$
+ `ı@$$$$$$$$@ı`   `ı'      `"üüü"` .sY$Ss, `$$$$$$$$$$$$$$$$$'d$b`$$$$$$°$$$'
+    `"ıüı"`            ,a,         $$°$$$$  `$$$$$$$$$$$$$$$' `ı'  "ıS$$Sı"
+                       `ı'         `ıS$Sı'   `ıS$$$$$$$$$Sı'
+                                                `"øüüüø"'
+                                         .sY$Ss,
+                    d$b .,sS$$$$Ss,      $$°$$$$   [retired in action]
+   .sY$Ss,   ,sS$Ss,`ı',$$$$$$$$$$$$,    `ıS$Sı'
+   $$°$$$$ ,sS$$$$$$s,s$$$$$$$$$$$$$$$s,,.     .,sSS$$$SSs,      ,ss,
+   `ıS$Sı',$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$s,.  `ıı'
+ ,sSs,.,s$$$SüS$$$$$$$$$$S$$$$$$$$$$$$$$$$$$SüüS$$$$$$$$S$$$$S$Ss,.,sb$$$S.
+ `ıS$Sı'`ı'     `ıS$Sı     `ıS$$$$$$$$$$Sı'      `ıS$Sı'       `ıS$Sı'
+                                `ıüüüı'
+
+  we wish them the best in real life and thank them for all their great work
+  they have done for blizzard.. we'll never forget you !!
+
+  our fallen heroes: fungus - scut - wireflood - acidapple - docm - wishmaster
+
+                 ,ss,                                       d$b
+   ,sS$$$$Ss,    `ıı'                    ,sS$Ss,            `ı'
+ ,$$$$$$$$$$$$,       .,sS$$$$Ss,      ,sS$$$$$$s.       ,ss,       .sY$Ss,
+ $$$$$$$$$$$$$$$Sı"~"ı@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,
+ $$$$$$$$$$$$$$'  ,a,  `"üSS$$$$$SSü"`'~"ı@$$$$$$$$$$$$$$$$$$$û$$$$$$$$$$$$$
+ `ı@$$$$$$$$@ı`   `ı'      `"üüü"` .sY$Ss, `$$$$$$$$$$$$$$$$$'d$b`$$$$$$°$$$'
+    `"ıüı"`            ,a,         $$°$$$$  `$$$$$$$$$$$$$$$' `ı'  "ıS$$Sı"
+                       `ı'         `ıS$Sı'   `ıS$$$$$$$$$Sı'
+                                                `"øüüüø"'
+                                         .sY$Ss,
+                    d$b .,sS$$$$Ss,      $$°$$$$   [contact]
+   .sY$Ss,   ,sS$Ss,`ı',$$$$$$$$$$$$,    `ıS$Sı'
+   $$°$$$$ ,sS$$$$$$s,s$$$$$$$$$$$$$$$s,,.     .,sSS$$$SSs,      ,ss,
+   `ıS$Sı',$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$s,.  `ıı'
+ ,sSs,.,s$$$SüS$$$$$$$$$$S$$$$$$$$$$$$$$$$$$SüüS$$$$$$$$S$$$$S$Ss,.,sb$$$S.
+ `ıS$Sı'`ı'     `ıS$Sı     `ıS$$$$$$$$$$Sı'      `ıS$Sı'       `ıS$Sı'
+                                `ıüüüı'
+
+  right now we have nearly no interests to get new members into our
+  group but if you really think you would fit in our group, feel free to
+  let us know.
+
+  we have finally reopen our #blizzard2k (efnet) channel for da public...
+
+  we finally step back to the roots! As we are a 0day group we have no
+  longer interests to publish our releases on the web. if someone would
+  like to do so... we dont care as long as you dont name it an official
+  blizzard distribution site or something like that! Please expect NO
+  support in any case from our side!
+
+  if you have questions or requests please use our FORUM (available on our
+  webpage. Every emails about non working cracks, missing disks ect will be
+  totally ignored!
+
+   mail: blizzardfox@yahoo.com
+   www:  http://www.blizzard.st
+   frontline: http://www.blizzard.st/frontline (soon back with new layout)
+
+                 ,ss,                                       d$b
+   ,sS$$$$Ss,    `ıı'                    ,sS$Ss,            `ı'
+ ,$$$$$$$$$$$$,       .,sS$$$$Ss,      ,sS$$$$$$s.       ,ss,       .sY$Ss,
+ $$$$$$$$$$$$$$$Sı"~"ı@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,
+ $$$$$$$$$$$$$$'  ,a,  `"üSS$$$$$SSü"`'~"ı@$$$$$$$$$$$$$$$$$$$û$$$$$$$$$$$$$
+ `ı@$$$$$$$$@ı`   `ı'      `"üüü"` .sY$Ss, `$$$$$$$$$$$$$$$$$'d$b`$$$$$$°$$$'
+    `"ıüı"`            ,a,         $$°$$$$  `$$$$$$$$$$$$$$$' `ı'  "ıS$$Sı"
+                       `ı'         `ıS$Sı'   `ıS$$$$$$$$$Sı'
+                                                `"øüüüø"'     upd:10.01.2k
